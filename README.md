@@ -1,6 +1,6 @@
 ## Olá, Prazer!!! Eu sou o Gustavo Telo! 👋
 
-- 🔭 Atualmente estou me aprofundando nos estudos para adquirir conhecimentos e assim conseguir ingressar na carreira de desenvolvedor
+- 🔭 Atualmente estou me aprofundando nos estudos para adquirir conhecimentos e assim conseguir ingressar na carreira de desenvolvedor!...
 - 🌱 Atualmente estou aprendendo HTML5, CSS3, Javascript, Typescript com framework React
 - 😄 Pronouns: ele/dele
 
