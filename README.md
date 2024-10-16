@@ -1,7 +1,6 @@
 ## Olá, Prazer!!! Eu sou o Gustavo Telo! 👋
 
  Atualmente estou me aprofundando nos estudos para adquirir conhecimentos e assim conseguir ingressar na carreira de desenvolvedor. Sou apaixonado por tecnologia, o que me motiva a estudar e aprender gradativamente para explorar e seguir carreira nessa área. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba.
-- 🌱 Estou aprendendo HTML5, CSS3, Javascript, Typescript com framework React
 - 😄 Pronouns: ele/dele
 
  <div style="display: inline_block"><br>
